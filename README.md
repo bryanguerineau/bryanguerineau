@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryanguerineau
-- 👀 I’m interested in Blockchain, IA and economy.
-- 🌱 I’m currently learning Solidity, Javascript and Python.
+- 👀 I am passionate about Blockchain, IA and finance.
+- 🌱 I’m currently learning Java and Python.
 - 📫 How to reach me :    mail : bryan.guerineau@outlook.com      twitter : @GuerineauBryan
 
 <!---
