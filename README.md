@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryanguerineau
 - 👀 I am passionate about Blockchain, IA and finance.
-- 🌱 I’m currently learning Java and Python.
+- 🌱 I’m currently learning RUST.
 - 📫 How to reach me :    mail : bryan.guerineau@outlook.com      twitter : @GuerineauBryan
 
 <!---
