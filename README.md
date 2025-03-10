@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryanguerineau
 - 👀 I am passionate about Deep tech & Deep Science technologies
-- 🌱 I’m currently working on cryptography & cybersecurity
+
 
 
 <!---
